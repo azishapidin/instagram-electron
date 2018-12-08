@@ -1,6 +1,7 @@
 <div style="text-align: center;">
 <img src="screenshot.png">
 </div>
+
 # instagram-electron
 This is an example of implementation `loadURL()` and `webContents.setUserAgent()` from `BrowserWindow` class.
 
