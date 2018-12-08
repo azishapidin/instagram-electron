@@ -1,7 +1,3 @@
-<div style="text-align: center;">
-<img src="screenshot.png">
-</div>
-
 # instagram-electron
 This is an example of implementation `loadURL()` and `webContents.setUserAgent()` from `BrowserWindow` class.
 
@@ -23,3 +19,7 @@ npm start
 ```
 
 This repo is cloned and modified from [https://github.com/electron/electron-quick-start](https://github.com/electron/electron-quick-start)
+
+<div style="text-align: center;">
+<img src="screenshot.png">
+</div>
