@@ -1,21 +1,19 @@
 {
-  "name": "electron-quick-start",
+  "name": "electron-instagram",
   "version": "1.0.0",
-  "description": "A minimal Electron application",
+  "description": "Instagram for desktop",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
-  "repository": "https://github.com/electron/electron-quick-start",
+  "repository": "https://github.com/azishapidin/instagram-electron",
   "keywords": [
-    "Electron",
-    "quick",
-    "start",
-    "tutorial",
-    "demo"
+    "instagram",
+    "electron",
+    "loadURL"
   ],
-  "author": "GitHub",
-  "license": "CC0-1.0",
+  "author": "Azis Hapidin",
+  "license": "MIT License",
   "devDependencies": {
     "electron": "^3.0.7"
   }
