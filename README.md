@@ -18,8 +18,12 @@ npm install
 npm start
 ```
 
-This repo is cloned and modified from [https://github.com/electron/electron-quick-start](https://github.com/electron/electron-quick-start)
+## Screenshot
 
 <div style="text-align: center;">
 <img src="screenshot.png">
 </div>
+
+## Note
+
+This repo is cloned and modified from [https://github.com/electron/electron-quick-start](https://github.com/electron/electron-quick-start)
